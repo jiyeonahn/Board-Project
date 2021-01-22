@@ -11,7 +11,7 @@
 * 게시판 페이징 처리
 * 게시글 수정 및 삭제
 * 사용자, 게시글 제목 별 검색
----
+
 ### 기술
 * WebServer : Java, Apache Tomcat
 * DBMS : MySQL
