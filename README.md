@@ -24,10 +24,9 @@
 * 사용자 이름, 게시글 제목에 해당하는 검색 https://blog.naver.com/ajy7424/222233474659
 
 ### 기술
-* WebServer : Java, Apache Tomcat
+* WebServer : Apache Tomcat 9.0
 * DBMS : MySQL 5.7
-* WebFront : BootStrap3, CSS, JavaScript, HTML
-* 개발환경 : Eclipse 8.0
+* Frontend : BootStrap3, CSS, JavaScript, HTML
 
 ### 더 추가해 보고 싶은 기능
 * 댓글 및 추천 기능을 비동기식으로 구현
