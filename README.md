@@ -7,7 +7,7 @@
 
 
 ### ERD
-
+![image](https://user-images.githubusercontent.com/76156034/107022610-f971f200-67e8-11eb-9733-4c6e9c0b4649.png)
 
 ### 직접 구현한 기능
 * 댓글 목록 
