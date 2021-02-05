@@ -6,9 +6,7 @@
 * 오늘의 일상을 일기로 공유하는 간단한 게시판 프로젝트입니다.
 
 ### 개발 환경
-* WebServer : Apache Tomcat 9.0
-* DBMS : MySQL 5.7
-* Frontend : BootStrap3, CSS, JavaScript, HTML
+<pre><code>Apache Tomcat 9.0</pre></code><pre><code>MySQL 5.7</pre></code><pre><code>BootStrap3</pre></code><pre><code>CSS</pre></code><pre><code>Eclipse</pre></code>
 
 ### ERD
 ![image](https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png)
