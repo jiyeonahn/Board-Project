@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/76156034/107023411-f297af00-67e9-11eb-810c-19229b9d1f25.png)
 
 ### 게시판 화면
-
+![image](https://user-images.githubusercontent.com/76156034/107023957-b3b62900-67ea-11eb-96e7-2f69735bd576.png)
 
 ### 직접 구현한 기능
 * 댓글 목록 
