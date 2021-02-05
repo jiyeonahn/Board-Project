@@ -19,6 +19,7 @@
 ### 게시판 화면
 ![image](https://user-images.githubusercontent.com/76156034/107024194-10b1df00-67eb-11eb-8efc-60f94d658118.png)
 ---
+---
 ### 직접 구현한 기능
 * 댓글 목록 구현, 댓글 수정 및 삭제 https://blog.naver.com/ajy7424/222233328869
 * 게시글 추천 https://blog.naver.com/ajy7424/222233414265
