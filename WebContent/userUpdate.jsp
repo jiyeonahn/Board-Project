@@ -3,6 +3,7 @@
 <%@ page import="java.io.PrintWriter" %>
 <%@ page import="user.UserDAO" %>
 <%@ page import="user.User" %>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,15 +32,12 @@
 				<span class ="icon-bar"></span>
 				<span class ="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="main.jsp">Gift For You</a>
+			<a class="navbar-brand" href="main.jsp">공유 다이어리📕</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="main.jsp">메인</a></li>
-				<li><a href="#">연령별</a></li>
-				<li><a href="#">성별</a></li>
-				<li><a href="#">기념일</a></li>
-				<li><a href="bbs.jsp">게시판</a></li>
+				<li><a href="main.jsp">main</a></li>
+				<li><a href="bbs.jsp">diary</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li class="dropdown">

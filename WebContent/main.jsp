@@ -1,6 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ page import="java.io.PrintWriter" %>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,15 +27,12 @@
 				<span class ="icon-bar"></span>
 				<span class ="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="main.jsp">Gift For You</a>
+			<a class="navbar-brand" href="main.jsp">공유 다이어리📕</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="main.jsp">메인</a></li>
-				<li><a href="#">연령별</a></li>
-				<li><a href="#">성별</a></li>
-				<li><a href="#">기념일</a></li>
-				<li><a href="bbs.jsp">게시판</a></li>
+				<li class="active"><a href="main.jsp">main</a></li>
+				<li><a href="bbs.jsp">diary</a></li>
 			</ul>
 			<%
 				if(userID==null){//로그인이 되어 있지 않다면
@@ -73,9 +71,9 @@
 	<div class="container">
 		<div class="jumbotron">
 			<div class="container">
-				<h1>🎁Gift For You🎁<h1>
-				<p>다양한 유형별 선물 추천을 지금 바로 만나보세요!</p>
-				<p><a class="btn btn-primary btn-pull" href="best.jsp" role="button">베스트 상품 보러가기</a></p>
+				<h1>오늘의 하루는 어땠나요❓✨</h1>
+				<p>당신의 일상을 공유해주세요☺</p>
+				<p><a class="btn btn-primary btn-pull" href="write.jsp" role="button">일기 쓰러가기 📜</a></p>
 			</div>
 		</div>
 	</div>

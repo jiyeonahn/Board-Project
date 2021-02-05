@@ -45,7 +45,7 @@
 				PrintWriter script=response.getWriter();
 				script.println("<script>");
 				script.println("alert('추천이 완료되었습니다.')");
-				script.println("location.href=bbs.jsp?pagenumber=1");
+				script.println("location.href= \'view.jsp?bbsID="+bbsID+"\'");
 				script.println("</script>");
 			} else{
 				PrintWriter script=response.getWriter();
