@@ -6,7 +6,7 @@
 * 오늘의 일상을 일기로 공유하는 간단한 게시판 프로젝트입니다.
 
 ### 개발 환경
-Eclipse
+**Eclipse**
 Apache Tomcat 9.0
 MySQL 5.7
 BootStrap3
