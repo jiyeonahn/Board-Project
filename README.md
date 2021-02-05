@@ -16,15 +16,12 @@
 ![image](https://user-images.githubusercontent.com/76156034/107024194-10b1df00-67eb-11eb-8efc-60f94d658118.png)
 
 ### 직접 구현한 기능
-* 댓글 목록 
-* 댓글 수정
-* 댓글 삭제
-* 게시글 추천
-* 게시글 조회수
-* 회원 탈퇴
-* 회원 정보 수정 
-* 게시판 페이징 처리
-* 사용자 이름, 게시글 제목에 해당하는 검색
+* 댓글 목록 구현, 댓글 수정 및 삭제 https://blog.naver.com/ajy7424/222233328869
+* 게시글 추천 https://blog.naver.com/ajy7424/222233414265
+* 게시글 조회수 https://blog.naver.com/ajy7424/222233380272
+* 회원 정보 수정 및 탈퇴 https://blog.naver.com/ajy7424/222233343781
+* 게시판 페이징 처리 https://blog.naver.com/ajy7424/222233430584
+* 사용자 이름, 게시글 제목에 해당하는 검색 https://blog.naver.com/ajy7424/222233474659
 
 ### 기술
 * WebServer : Java, Apache Tomcat
