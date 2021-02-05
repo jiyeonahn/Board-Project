@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/76156034/107023411-f297af00-67e9-11eb-810c-19229b9d1f25.png)
 
 ### 게시판 화면
-![image](https://user-images.githubusercontent.com/76156034/107023957-b3b62900-67ea-11eb-96e7-2f69735bd576.png)
+![image](https://user-images.githubusercontent.com/76156034/107024194-10b1df00-67eb-11eb-8efc-60f94d658118.png)
 
 ### 직접 구현한 기능
 * 댓글 목록 
@@ -33,6 +33,7 @@
 * 개발환경 : Eclipse 8.0
 
 ### 더 추가해 보고 싶은 기능
-* 댓글을 쓸 때 비동기식으로 구현 해보기(Ajax)
-* 추천을 누를 때 비동기시긍로 구현 해보기(Ajax)
+* 댓글 및 추천 기능을 비동기식으로 구현
 * 대댓글 기능
+* 게시글 제목 옆에 댓글 개수 표현
+
