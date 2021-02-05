@@ -26,7 +26,7 @@
 * WebFront : BootStrap3, CSS, JavaScript, HTML
 * 개발환경 : Eclipse 8.0
 
-### 더 추가해 보고 싶은 기능 및 아쉬운 점
+### 더 추가해 보고 싶은 기능
 * 댓글을 쓸 때 비동기식으로 구현 해보기(Ajax)
 * 추천을 누를 때 비동기시긍로 구현 해보기(Ajax)
 * 대댓글 기능
