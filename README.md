@@ -4,6 +4,13 @@
 * [유튜버 동빈나 게시판](https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6)을 참고로 새로운 기능들을 직접 추가해 구현한 다이어리 게시판입니다.
 * 오늘의 일상을 일기로 공유하는 간단한 게시판 프로젝트입니다.
 ---
+### 개발 환경
+* IDE : Eclipse
+* DBMS : MySQL 5.7
+* WAS : Apache Tomcat 9.0
+* Frontend : BootStrap 3, HTML, CSS
+* Backend : Java
+---
 ### 기능
 * 게시글 CRUD
 * 로그인 및 회원가입
@@ -12,13 +19,6 @@
 * 댓글 CRUD
 * 게시글 검색
 * 게시판 페이징
----
-### 개발 환경
-* IDE : Eclipse
-* DBMS : MySQL 5.7
-* WAS : Apache Tomcat 9.0
-* Frontend : BootStrap 3, HTML, CSS
-* Backend : Java
 ---
 ### ERD
 <img src="https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png" width="500" height="600"></img>
