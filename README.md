@@ -9,6 +9,10 @@
 * Apache Tomcat 9.0
 * MySQL 5.7
 * BootStrap3
+### 사용 언어
+* Java
+* HTML
+* CSS
 ---
 ### ERD
 ![image](https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png)
