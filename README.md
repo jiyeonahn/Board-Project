@@ -24,7 +24,7 @@
 * CSS
 ---
 ### ERD
-<img src="https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png">
+<img src="https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png" width="150" height="150"></img>
 ---
 ### 메인화면
 ![image](https://user-images.githubusercontent.com/76156034/107023411-f297af00-67e9-11eb-810c-19229b9d1f25.png)
