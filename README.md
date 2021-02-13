@@ -22,6 +22,9 @@
 
 ### 게시판 화면
 ![image](https://user-images.githubusercontent.com/76156034/107024194-10b1df00-67eb-11eb-8efc-60f94d658118.png)
+
+### 게시글 화면
+![image](https://user-images.githubusercontent.com/76156034/107850864-0f1a9380-6e49-11eb-96ad-286af1e87ddc.png)
 ---
 ---
 ### 직접 구현한 기능
