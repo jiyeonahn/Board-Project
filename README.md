@@ -14,14 +14,10 @@
 * 게시판 페이징
 ---
 ### 개발 환경
-* Eclipse
-* Apache Tomcat 9.0
-* MySQL 5.7
-* BootStrap3
-### 사용 언어
-* Java
-* HTML
-* CSS
+* IDE : Eclipse
+* DBMS : MySQL 5.7
+* Frontend : BootStrap 3, HTML, CSS
+* Backend : JAVA, Apache Tomcat 9.0
 ---
 ### ERD
 <img src="https://user-images.githubusercontent.com/76156034/107023160-96cd2600-67e9-11eb-84d4-f6722d190176.png" width="500" height="600"></img>
